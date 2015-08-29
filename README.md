@@ -262,8 +262,8 @@ We'll come back to the details of that later, but for now, just download the fil
 
 ```bash
 $ cd ~
-$ curl -O https://raw2.github.com/jfrazelle/mac-dev-setup/master/.bash_profile
-$ curl -O https://raw2.github.com/jfrazelle/mac-dev-setup/master/.helpers
+$ curl -O https://raw.githubusercontent.com/rocketpastsix/mac-dev-setup/master/.bash_profile
+$ curl -O https://raw.githubusercontent.com/rocketpastsix/mac-dev-setup/master/.helpers
 $ curl -O https://raw2.github.com/mathiasbynens/dotfiles/master/.aliases
 $ curl -O https://raw2.github.com/mathiasbynens/dotfiles/master/.bash_prompt
 $ curl -O https://raw2.github.com/mathiasbynens/dotfiles/master/.exports
